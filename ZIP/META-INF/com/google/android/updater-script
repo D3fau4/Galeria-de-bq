@@ -1,6 +1,5 @@
 ui_print("****************************************");
 ui_print("*    Port creado por @D3fau4   *");
-ui_print("*        para HTCMania        **********");
 ui_print("****************************************");
 ui_print("");
 ui_print("");
@@ -24,7 +23,7 @@ set_perm(0, 0, 0644, "/system/lib/libjni_panorama.so");
 set_progress(0.400000);
 
 ui_print("	Cámara");
-set_perm(0, 0, 0644, "/system/app/Camerabq/Camerabq.apk");
+set_perm(0, 0, 0644, "/system/app/Galeriabq/Galeriabq.apk");
 set_progress(0.500000);
 set_progress(0.700000);
 
@@ -35,5 +34,5 @@ set_progress(0.900000);
 
 set_progress(1.000000);
 ui_print("************************************");
-ui_print("*     Camara Stock instalada     ***");
+ui_print("*   Galería bq Stock instalada   ***");
 ui_print("************************************");
